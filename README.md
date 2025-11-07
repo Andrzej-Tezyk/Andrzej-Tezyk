@@ -4,26 +4,27 @@ I build web applications and infrastructure, with a current focus on AI-powered 
 <br><br>
 
 <h3>🛠️ Tech Stack</h3>
+
 **Languages**  
-Python • JavaScript • SQL • Java
+Python • JavaScript • SQL • Java  
 
 **Backend & APIs**  
-FastAPI • Flask • REST APIs
+FastAPI • Flask • REST APIs  
 
 **Frontend**  
-React • Vue • HTML • CSS • Tailwind
+React • Vue • HTML • CSS • Tailwind  
 
 **Databases**  
-Microsoft SQL Server • PostgreSQL • MySQL • SQLite • ChromaDB
+SQL Server • PostgreSQL • MySQL • SQLite • ChromaDB  
 
 **DevOps & Cloud**  
-Docker • GitHub Actions • Bash • AWS • Azure
+Docker • GitHub Actions • Bash • AWS • Azure  
 
 **AI & Data**  
-LangChain • RAG • Pandas • NumPy • Scikit-learn • TensorFlow • Seaborn • Matplotlib • SciPy
+LangChain • RAG • Pandas • NumPy • Scikit-learn • TensorFlow • Seaborn • Matplotlib • SciPy  
 
 **Tools**  
-Git • GitHub • AWS CodeCommit • pytest • unittest
+Git • GitHub • AWS CodeCommit • pytest • unittest  
 
 <br>
 
