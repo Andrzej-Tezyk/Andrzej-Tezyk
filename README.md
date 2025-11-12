@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andrzej</h1>
-I build web applications and infrastructure, with a current focus on AI-powered solutions using LLM APIs. My work spans from backend services to user interface and CI/CD pipelines.
+I build web applications and infrastructure, with a current focus on AI-powered products. My work spans from backend services to user interface and CI/CD pipelines.
 
 <br><br>
 
