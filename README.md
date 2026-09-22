@@ -26,8 +26,7 @@ LangChain • RAG • Pandas • NumPy • Scikit-learn • TensorFlow • Seabo
 **Tools**  
 Git • GitHub • AWS CodeCommit • pytest • unittest
 
-**Quality**
-
+**Quality**  
 SonarQube
 
 
