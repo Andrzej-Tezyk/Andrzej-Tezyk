@@ -15,16 +15,20 @@ FastAPI • Flask • REST APIs
 React • Vue • HTML • CSS • Tailwind  
 
 **Databases**  
-SQL Server • PostgreSQL • MySQL • SQLite • ChromaDB  
+SQL Server • PostgreSQL • MySQL • SQLite • Firebase • ChromaDB • Qdrant
 
 **DevOps & Cloud**  
-Docker • GitHub Actions • Bash • AWS • Azure  
+Docker • GitHub Actions • CI/CD pipeline design • Bash • AWS • Azure • GCP
 
 **AI & Data**  
-LangChain • RAG • Pandas • NumPy • Scikit-learn • TensorFlow • Seaborn • Matplotlib • SciPy  
+LangChain • RAG • Pandas • NumPy • Scikit-learn • TensorFlow • Seaborn • Matplotlib • SciPy • AI agents • AI development tools
 
 **Tools**  
-Git • GitHub • AWS CodeCommit • pytest • unittest  
+Git • GitHub • AWS CodeCommit • pytest • unittest
+
+**Quality**
+SonarQube • Code review • Dependency/versioning management
+
 
 <br><br>
 
