@@ -26,11 +26,6 @@ LangChain • RAG • Pandas • NumPy • Scikit-learn • TensorFlow • Seabo
 **Tools**  
 Git • GitHub • AWS CodeCommit • pytest • unittest  
 
-<br>
-
-<h3>🌱 Currently Learning</h3>
-Building AI agents.
-
 <br><br>
 
 <h3 align="left">Languages and Tools:</h3>
