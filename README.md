@@ -27,7 +27,8 @@ LangChain • RAG • Pandas • NumPy • Scikit-learn • TensorFlow • Seabo
 Git • GitHub • AWS CodeCommit • pytest • unittest
 
 **Quality**
-SonarQube • Code review • Dependency/versioning management
+
+SonarQube
 
 
 <br><br>
